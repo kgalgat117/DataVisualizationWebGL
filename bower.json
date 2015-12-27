@@ -1,0 +1,15 @@
+{
+  "name": "DataVisualizationWebGL",
+  "description": "Data Visualization of Numbers of Tornodo occured from 1950-2014 in United States",
+  "homepage": "http://hackersknight.github.io",
+  "keywords": [
+  ],
+  "author": "Pranay Yadav",
+  "private": true,
+  "dependencies": {
+    "iron-elements": "PolymerElements/iron-elements#^1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.1",
+    "google-map": "GoogleWebComponents/google-map#^1.1.1",
+    "point-overlay": "googlecodelabs/polymer-webgl-visualization"
+  }
+}

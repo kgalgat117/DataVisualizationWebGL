@@ -1,0 +1,10 @@
+body, html {
+  font-family: 'Roboto', Arial, sans-serif;
+  height: 100%;
+  margin: 0;
+}
+paper-card {
+  position: absolute;
+  top: 25px;
+  right: 25px;
+}
